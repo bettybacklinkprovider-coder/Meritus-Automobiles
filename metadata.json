@@ -1,0 +1,6 @@
+{
+  "name": "Meritus Automobiles",
+  "description": "Singapore's premier luxury automotive showroom offering bespoke supercars, executive sedans, and grand tourers with white-glove service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
